@@ -2250,7 +2250,7 @@ section {
 }
 .owl-prev:before,
 .owl-next:before{
-    content: "\~ ";
+    
     font-family: "fontawesome";
     font-size: 45px;
     font-weight: 900;
@@ -2259,11 +2259,9 @@ section {
     top: 0;
     left: 25%;
 }
-.owl-next:before{
-    content: "\~";
-}
+
 .owl-next:after{
-    content: " / ";
+    
     font-size: 40px;
     color: #ddd;
     position: absolute;
