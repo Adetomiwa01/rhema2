@@ -91,7 +91,7 @@ section {
 
 .breadcrumbs:before {
   content: "";
-  background-color: rgba(27, 47, 69, 0.7);
+  background-color: #1b2f45;
   position: absolute;
   inset: 0;
 }
